@@ -2,6 +2,10 @@
 target/
 dbt_packages/
 logs/
+<<<<<<< HEAD
+dbt_internal_packages/
+=======
 ../env_dbt/
 dbt_internal_packages/
 ../logs/
+>>>>>>> dev
